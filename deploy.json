@@ -1,7 +1,7 @@
 {
-  "REPO_URL":"https://github.com/edu-kenshi/deploy",
+  "REPO_URL":"https://github.com/MinjiKimMJ/deploy",
   "PROJECT_NAME":"deploy",
-  "REMOTE_HOST":"ec2-13-209-3-106.ap-northeast-2.compute.amazonaws.com",
-  "REMOTE_HOST_SSH":"13.209.3.106",
+  "REMOTE_HOST":"ec2-52-79-239-149.ap-northeast-2.compute.amazonaws.com",
+  "REMOTE_HOST_SSH":"52.79.239.149",
   "REMOTE_USER":"ubuntu"
 }
